@@ -1,0 +1,1482 @@
+MN;;Aitkin County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;40;8.99;445
+MN;;Aitkin County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;126;28.31;445
+MN;;Aitkin County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;12;2.70;445
+MN;;Aitkin County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;94;21.12;445
+MN;;Aitkin County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;173;38.88;445
+MN;;Aitkin County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;445
+MN;;Becker County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;98;15.05;651
+MN;;Becker County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;206;31.64;651
+MN;;Becker County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;49;7.53;651
+MN;;Becker County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;103;15.82;651
+MN;;Becker County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;195;29.95;651
+MN;;Becker County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;651
+MN;;Beltrami County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;91;9.28;981
+MN;;Beltrami County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;378;38.53;981
+MN;;Beltrami County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;32;3.26;981
+MN;;Beltrami County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;256;26.10;981
+MN;;Beltrami County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;220;22.43;981
+MN;;Beltrami County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;4;0.41;981
+MN;;Benton County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;50;9.43;530
+MN;;Benton County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;130;24.53;530
+MN;;Benton County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;25;4.72;530
+MN;;Benton County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;161;30.38;530
+MN;;Benton County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;163;30.75;530
+MN;;Benton County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.19;530
+MN;;Big Stone County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;14;18.42;76
+MN;;Big Stone County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;26;34.21;76
+MN;;Big Stone County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;3;3.95;76
+MN;;Big Stone County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;18;23.68;76
+MN;;Big Stone County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;15;19.74;76
+MN;;Big Stone County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;76
+MN;;Blue Earth County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;91;8.67;1050
+MN;;Blue Earth County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;275;26.19;1050
+MN;;Blue Earth County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;73;6.95;1050
+MN;;Blue Earth County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;355;33.81;1050
+MN;;Blue Earth County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;254;24.19;1050
+MN;;Blue Earth County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.19;1050
+MN;;Brown County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;38;7.88;482
+MN;;Brown County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;127;26.35;482
+MN;;Brown County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;16;3.32;482
+MN;;Brown County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;195;40.46;482
+MN;;Brown County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;106;21.99;482
+MN;;Brown County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;482
+MN;;Carlton County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;70;12.30;569
+MN;;Carlton County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;164;28.82;569
+MN;;Carlton County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;38;6.68;569
+MN;;Carlton County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;100;17.57;569
+MN;;Carlton County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;197;34.62;569
+MN;;Carlton County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;569
+MN;;Carver County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;178;5.50;3234
+MN;;Carver County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;895;27.67;3234
+MN;;Carver County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;192;5.94;3234
+MN;;Carver County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1307;40.41;3234
+MN;;Carver County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;654;20.22;3234
+MN;;Carver County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;8;0.25;3234
+MN;;Cass County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;65;9.05;718
+MN;;Cass County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;234;32.59;718
+MN;;Cass County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;26;3.62;718
+MN;;Cass County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;159;22.14;718
+MN;;Cass County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;234;32.59;718
+MN;;Cass County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;718
+MN;;Chippewa County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;20;11.70;171
+MN;;Chippewa County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;64;37.43;171
+MN;;Chippewa County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;6;3.51;171
+MN;;Chippewa County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;35;20.47;171
+MN;;Chippewa County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;46;26.90;171
+MN;;Chippewa County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;171
+MN;;Chisago County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;87;6.92;1257
+MN;;Chisago County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;511;40.65;1257
+MN;;Chisago County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;31;2.47;1257
+MN;;Chisago County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;289;22.99;1257
+MN;;Chisago County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;337;26.81;1257
+MN;;Chisago County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.16;1257
+MN;;Clay County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;109;12.33;884
+MN;;Clay County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;299;33.82;884
+MN;;Clay County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;44;4.98;884
+MN;;Clay County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;255;28.85;884
+MN;;Clay County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;175;19.80;884
+MN;;Clay County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.23;884
+MN;;Clearwater County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;49;23.11;212
+MN;;Clearwater County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;84;39.62;212
+MN;;Clearwater County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;4;1.89;212
+MN;;Clearwater County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;30;14.15;212
+MN;;Clearwater County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;44;20.75;212
+MN;;Clearwater County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.47;212
+MN;;Cook County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;25;21.37;117
+MN;;Cook County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;27;23.08;117
+MN;;Cook County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;7;5.98;117
+MN;;Cook County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;40;34.19;117
+MN;;Cook County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;17;14.53;117
+MN;;Cook County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.85;117
+MN;;Cottonwood County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;45;15.96;282
+MN;;Cottonwood County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;103;36.52;282
+MN;;Cottonwood County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;18;6.38;282
+MN;;Cottonwood County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;56;19.86;282
+MN;;Cottonwood County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;60;21.28;282
+MN;;Cottonwood County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;282
+MN;;Crow Wing County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;141;9.12;1546
+MN;;Crow Wing County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;504;32.60;1546
+MN;;Crow Wing County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;78;5.05;1546
+MN;;Crow Wing County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;413;26.71;1546
+MN;;Crow Wing County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;407;26.33;1546
+MN;;Crow Wing County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.19;1546
+MN;;Dodge County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;25;5.80;431
+MN;;Dodge County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;145;33.64;431
+MN;;Dodge County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;16;3.71;431
+MN;;Dodge County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;112;25.99;431
+MN;;Dodge County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;133;30.86;431
+MN;;Dodge County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;431
+MN;;Douglas County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;114;14.41;791
+MN;;Douglas County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;221;27.94;791
+MN;;Douglas County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;31;3.92;791
+MN;;Douglas County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;222;28.07;791
+MN;;Douglas County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;202;25.54;791
+MN;;Douglas County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.13;791
+MN;;Faribault County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;48;14.12;340
+MN;;Faribault County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;135;39.71;340
+MN;;Faribault County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;15;4.41;340
+MN;;Faribault County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;72;21.18;340
+MN;;Faribault County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;70;20.59;340
+MN;;Faribault County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;340
+MN;;Fillmore County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;60;13.13;457
+MN;;Fillmore County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;116;25.38;457
+MN;;Fillmore County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;29;6.35;457
+MN;;Fillmore County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;117;25.60;457
+MN;;Fillmore County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;135;29.54;457
+MN;;Fillmore County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;457
+MN;;Freeborn County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;40;6.84;585
+MN;;Freeborn County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;218;37.27;585
+MN;;Freeborn County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;29;4.96;585
+MN;;Freeborn County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;156;26.67;585
+MN;;Freeborn County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;142;24.27;585
+MN;;Freeborn County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;585
+MN;;Goodhue County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;68;6.88;989
+MN;;Goodhue County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;359;36.30;989
+MN;;Goodhue County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;60;6.07;989
+MN;;Goodhue County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;279;28.21;989
+MN;;Goodhue County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;219;22.14;989
+MN;;Goodhue County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;4;0.40;989
+MN;;Grant County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;33;20.75;159
+MN;;Grant County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;40;25.16;159
+MN;;Grant County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;5;3.14;159
+MN;;Grant County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;38;23.90;159
+MN;;Grant County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;43;27.04;159
+MN;;Grant County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;159
+MN;;HD 03B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;88;15.20;579
+MN;;HD 03B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;162;27.98;579
+MN;;HD 03B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;25;4.32;579
+MN;;HD 03B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;149;25.73;579
+MN;;HD 03B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;154;26.60;579
+MN;;HD 03B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.17;579
+MN;;HD 07A;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;56;8.25;679
+MN;;HD 07A;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;158;23.27;679
+MN;;HD 07A;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;52;7.66;679
+MN;;HD 07A;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;267;39.32;679
+MN;;HD 07A;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;144;21.21;679
+MN;;HD 07A;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.29;679
+MN;;HD 07B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;34;8.65;393
+MN;;HD 07B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;103;26.21;393
+MN;;HD 07B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;13;3.31;393
+MN;;HD 07B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;140;35.62;393
+MN;;HD 07B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;103;26.21;393
+MN;;HD 07B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;393
+MN;;HD 12B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;35;8.16;429
+MN;;HD 12B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;150;34.97;429
+MN;;HD 12B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;8;1.86;429
+MN;;HD 12B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;122;28.44;429
+MN;;HD 12B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;114;26.57;429
+MN;;HD 12B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;429
+MN;;HD 15A;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;84;11.85;709
+MN;;HD 15A;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;234;33.00;709
+MN;;HD 15A;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;14;1.97;709
+MN;;HD 15A;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;176;24.82;709
+MN;;HD 15A;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;199;28.07;709
+MN;;HD 15A;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.28;709
+MN;;HD 15B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;57;8.38;680
+MN;;HD 15B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;231;33.97;680
+MN;;HD 15B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;50;7.35;680
+MN;;HD 15B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;165;24.26;680
+MN;;HD 15B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;176;25.88;680
+MN;;HD 15B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.15;680
+MN;;HD 38A;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;121;5.87;2060
+MN;;HD 38A;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;616;29.90;2060
+MN;;HD 38A;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;99;4.81;2060
+MN;;HD 38A;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;836;40.58;2060
+MN;;HD 38A;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;386;18.74;2060
+MN;;HD 38A;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.10;2060
+MN;;HD 38B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;0;0.00;0
+MN;;HD 38B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;0;0.00;0
+MN;;HD 38B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;0;0.00;0
+MN;;HD 38B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;0;0.00;0
+MN;;HD 38B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;0;0.00;0
+MN;;HD 38B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;0
+MN;;HD 42A;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;61;4.76;1282
+MN;;HD 42A;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;267;20.83;1282
+MN;;HD 42A;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;85;6.63;1282
+MN;;HD 42A;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;672;52.42;1282
+MN;;HD 42A;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;193;15.05;1282
+MN;;HD 42A;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;4;0.31;1282
+MN;;HD 42B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;59;7.07;835
+MN;;HD 42B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;226;27.07;835
+MN;;HD 42B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;43;5.15;835
+MN;;HD 42B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;371;44.43;835
+MN;;HD 42B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;134;16.05;835
+MN;;HD 42B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.24;835
+MN;;HD 52A;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;42;5.02;837
+MN;;HD 52A;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;228;27.24;837
+MN;;HD 52A;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;69;8.24;837
+MN;;HD 52A;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;349;41.70;837
+MN;;HD 52A;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;138;16.49;837
+MN;;HD 52A;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;11;1.31;837
+MN;;HD 52B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;40;4.42;906
+MN;;HD 52B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;248;27.37;906
+MN;;HD 52B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;68;7.51;906
+MN;;HD 52B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;349;38.52;906
+MN;;HD 52B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;196;21.63;906
+MN;;HD 52B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.55;906
+MN;;HD 66A;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;65;7.29;892
+MN;;HD 66A;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;214;23.99;892
+MN;;HD 66A;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;52;5.83;892
+MN;;HD 66A;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;452;50.67;892
+MN;;HD 66A;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;108;12.11;892
+MN;;HD 66A;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.11;892
+MN;;HD 66B;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;15;5.30;283
+MN;;HD 66B;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;75;26.50;283
+MN;;HD 66B;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;33;11.66;283
+MN;;HD 66B;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;113;39.93;283
+MN;;HD 66B;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;46;16.25;283
+MN;;HD 66B;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.35;283
+MN;;Houston County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;51;14.17;360
+MN;;Houston County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;99;27.50;360
+MN;;Houston County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;43;11.94;360
+MN;;Houston County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;86;23.89;360
+MN;;Houston County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;79;21.94;360
+MN;;Houston County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.56;360
+MN;;Hubbard County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;68;10.19;667
+MN;;Hubbard County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;249;37.33;667
+MN;;Hubbard County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;26;3.90;667
+MN;;Hubbard County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;131;19.64;667
+MN;;Hubbard County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;193;28.94;667
+MN;;Hubbard County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;667
+MN;;Isanti County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;89;9.90;899
+MN;;Isanti County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;342;38.04;899
+MN;;Isanti County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;14;1.56;899
+MN;;Isanti County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;225;25.03;899
+MN;;Isanti County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;228;25.36;899
+MN;;Isanti County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.11;899
+MN;;Itasca County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;84;9.38;896
+MN;;Itasca County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;327;36.50;896
+MN;;Itasca County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;33;3.68;896
+MN;;Itasca County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;197;21.99;896
+MN;;Itasca County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;254;28.35;896
+MN;;Itasca County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.11;896
+MN;;Jackson County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;47;18.80;250
+MN;;Jackson County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;60;24.00;250
+MN;;Jackson County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;10;4.00;250
+MN;;Jackson County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;60;24.00;250
+MN;;Jackson County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;73;29.20;250
+MN;;Jackson County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;250
+MN;;Kanabec County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;42;11.05;380
+MN;;Kanabec County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;135;35.53;380
+MN;;Kanabec County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;11;2.89;380
+MN;;Kanabec County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;81;21.32;380
+MN;;Kanabec County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;108;28.42;380
+MN;;Kanabec County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.79;380
+MN;;Kandiyohi County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;124;12.80;969
+MN;;Kandiyohi County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;356;36.74;969
+MN;;Kandiyohi County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;41;4.23;969
+MN;;Kandiyohi County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;282;29.10;969
+MN;;Kandiyohi County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;165;17.03;969
+MN;;Kandiyohi County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.10;969
+MN;;Kittson County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;15;20.83;72
+MN;;Kittson County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;24;33.33;72
+MN;;Kittson County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;2;2.78;72
+MN;;Kittson County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;19;26.39;72
+MN;;Kittson County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;12;16.67;72
+MN;;Kittson County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;72
+MN;;Koochiching County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;21;13.46;156
+MN;;Koochiching County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;45;28.85;156
+MN;;Koochiching County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;3;1.92;156
+MN;;Koochiching County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;33;21.15;156
+MN;;Koochiching County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;54;34.62;156
+MN;;Koochiching County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;156
+MN;;Lac Qui Parle County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;19;14.84;128
+MN;;Lac Qui Parle County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;35;27.34;128
+MN;;Lac Qui Parle County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;7;5.47;128
+MN;;Lac Qui Parle County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;26;20.31;128
+MN;;Lac Qui Parle County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;41;32.03;128
+MN;;Lac Qui Parle County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;128
+MN;;Lake County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;30;13.33;225
+MN;;Lake County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;67;29.78;225
+MN;;Lake County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;7;3.11;225
+MN;;Lake County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;46;20.44;225
+MN;;Lake County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;74;32.89;225
+MN;;Lake County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.44;225
+MN;;Lake of the Woods County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;12;15.79;76
+MN;;Lake of the Woods County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;18;23.68;76
+MN;;Lake of the Woods County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;3;3.95;76
+MN;;Lake of the Woods County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;23;30.26;76
+MN;;Lake of the Woods County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;20;26.32;76
+MN;;Lake of the Woods County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;76
+MN;;Le Sueur County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;37;6.28;589
+MN;;Le Sueur County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;188;31.92;589
+MN;;Le Sueur County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;27;4.58;589
+MN;;Le Sueur County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;174;29.54;589
+MN;;Le Sueur County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;163;27.67;589
+MN;;Le Sueur County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;589
+MN;;Lincoln County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;13;13.00;100
+MN;;Lincoln County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;31;31.00;100
+MN;;Lincoln County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;11;11.00;100
+MN;;Lincoln County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;24;24.00;100
+MN;;Lincoln County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;21;21.00;100
+MN;;Lincoln County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;100
+MN;;Lyon County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;89;16.73;532
+MN;;Lyon County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;149;28.01;532
+MN;;Lyon County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;38;7.14;532
+MN;;Lyon County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;172;32.33;532
+MN;;Lyon County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;84;15.79;532
+MN;;Lyon County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;532
+MN;;Mahnomen County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;2;3.51;57
+MN;;Mahnomen County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;25;43.86;57
+MN;;Mahnomen County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;4;7.02;57
+MN;;Mahnomen County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;2;3.51;57
+MN;;Mahnomen County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;24;42.11;57
+MN;;Mahnomen County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;57
+MN;;Marshall County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;25;16.78;149
+MN;;Marshall County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;53;35.57;149
+MN;;Marshall County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;3;2.01;149
+MN;;Marshall County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;40;26.85;149
+MN;;Marshall County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;28;18.79;149
+MN;;Marshall County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;149
+MN;;Martin County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;40;9.71;412
+MN;;Martin County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;143;34.71;412
+MN;;Martin County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;15;3.64;412
+MN;;Martin County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;109;26.46;412
+MN;;Martin County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;104;25.24;412
+MN;;Martin County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.24;412
+MN;;McLeod County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;86;10.83;794
+MN;;McLeod County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;297;37.41;794
+MN;;McLeod County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;19;2.39;794
+MN;;McLeod County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;185;23.30;794
+MN;;McLeod County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;207;26.07;794
+MN;;McLeod County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;794
+MN;;Meeker County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;50;11.71;427
+MN;;Meeker County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;142;33.26;427
+MN;;Meeker County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;30;7.03;427
+MN;;Meeker County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;120;28.10;427
+MN;;Meeker County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;84;19.67;427
+MN;;Meeker County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.23;427
+MN;;Morrison County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;71;8.83;804
+MN;;Morrison County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;246;30.60;804
+MN;;Morrison County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;21;2.61;804
+MN;;Morrison County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;257;31.97;804
+MN;;Morrison County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;207;25.75;804
+MN;;Morrison County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.25;804
+MN;;Mower County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;70;11.86;590
+MN;;Mower County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;162;27.46;590
+MN;;Mower County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;32;5.42;590
+MN;;Mower County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;153;25.93;590
+MN;;Mower County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;171;28.98;590
+MN;;Mower County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.34;590
+MN;;Murray County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;27;12.62;214
+MN;;Murray County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;66;30.84;214
+MN;;Murray County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;14;6.54;214
+MN;;Murray County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;67;31.31;214
+MN;;Murray County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;40;18.69;214
+MN;;Murray County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;214
+MN;;Nicollet County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;40;6.14;651
+MN;;Nicollet County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;171;26.27;651
+MN;;Nicollet County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;63;9.68;651
+MN;;Nicollet County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;225;34.56;651
+MN;;Nicollet County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;150;23.04;651
+MN;;Nicollet County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.31;651
+MN;;Nobles County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;21;10.71;196
+MN;;Nobles County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;65;33.16;196
+MN;;Nobles County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;8;4.08;196
+MN;;Nobles County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;66;33.67;196
+MN;;Nobles County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;36;18.37;196
+MN;;Nobles County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;196
+MN;;Norman County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;12;18.46;65
+MN;;Norman County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;21;32.31;65
+MN;;Norman County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;3;4.62;65
+MN;;Norman County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;10;15.38;65
+MN;;Norman County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;19;29.23;65
+MN;;Norman County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;65
+MN;;Olmsted County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;342;9.96;3433
+MN;;Olmsted County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;720;20.97;3433
+MN;;Olmsted County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;269;7.84;3433
+MN;;Olmsted County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1327;38.65;3433
+MN;;Olmsted County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;771;22.46;3433
+MN;;Olmsted County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;4;0.12;3433
+MN;;Otter Tail County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;198;13.80;1435
+MN;;Otter Tail County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;459;31.99;1435
+MN;;Otter Tail County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;76;5.30;1435
+MN;;Otter Tail County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;386;26.90;1435
+MN;;Otter Tail County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;314;21.88;1435
+MN;;Otter Tail County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.14;1435
+MN;;Pennington County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;31;16.23;191
+MN;;Pennington County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;59;30.89;191
+MN;;Pennington County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;4;2.09;191
+MN;;Pennington County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;32;16.75;191
+MN;;Pennington County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;64;33.51;191
+MN;;Pennington County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.52;191
+MN;;Pine County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;30;7.61;394
+MN;;Pine County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;167;42.39;394
+MN;;Pine County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;22;5.58;394
+MN;;Pine County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;51;12.94;394
+MN;;Pine County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;124;31.47;394
+MN;;Pine County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;394
+MN;;Pipestone County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;38;12.67;300
+MN;;Pipestone County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;106;35.33;300
+MN;;Pipestone County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;6;2.00;300
+MN;;Pipestone County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;90;30.00;300
+MN;;Pipestone County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;60;20.00;300
+MN;;Pipestone County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;300
+MN;;Polk County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;70;13.28;527
+MN;;Polk County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;185;35.10;527
+MN;;Polk County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;25;4.74;527
+MN;;Polk County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;130;24.67;527
+MN;;Polk County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;117;22.20;527
+MN;;Polk County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;527
+MN;;Pope County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;41;17.37;236
+MN;;Pope County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;70;29.66;236
+MN;;Pope County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;5;2.12;236
+MN;;Pope County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;60;25.42;236
+MN;;Pope County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;60;25.42;236
+MN;;Pope County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;236
+MN;;Red Lake County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;8;20.51;39
+MN;;Red Lake County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;12;30.77;39
+MN;;Red Lake County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;1;2.56;39
+MN;;Red Lake County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;8;20.51;39
+MN;;Red Lake County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;10;25.64;39
+MN;;Red Lake County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;39
+MN;;Redwood County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;19;6.71;283
+MN;;Redwood County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;73;25.80;283
+MN;;Redwood County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;16;5.65;283
+MN;;Redwood County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;104;36.75;283
+MN;;Redwood County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;70;24.73;283
+MN;;Redwood County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.35;283
+MN;;Renville County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;33;12.45;265
+MN;;Renville County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;74;27.92;265
+MN;;Renville County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;17;6.42;265
+MN;;Renville County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;64;24.15;265
+MN;;Renville County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;77;29.06;265
+MN;;Renville County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;265
+MN;;Rice County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;125;10.63;1176
+MN;;Rice County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;377;32.06;1176
+MN;;Rice County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;59;5.02;1176
+MN;;Rice County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;348;29.59;1176
+MN;;Rice County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;262;22.28;1176
+MN;;Rice County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.43;1176
+MN;;Rock County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;18;9.28;194
+MN;;Rock County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;91;46.91;194
+MN;;Rock County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;9;4.64;194
+MN;;Rock County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;43;22.16;194
+MN;;Rock County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;33;17.01;194
+MN;;Rock County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;194
+MN;;Roseau County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;55;16.77;328
+MN;;Roseau County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;122;37.20;328
+MN;;Roseau County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;13;3.96;328
+MN;;Roseau County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;61;18.60;328
+MN;;Roseau County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;77;23.48;328
+MN;;Roseau County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;328
+MN;;Scott County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;155;5.68;2727
+MN;;Scott County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;930;34.10;2727
+MN;;Scott County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;107;3.92;2727
+MN;;Scott County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;857;31.43;2727
+MN;;Scott County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;673;24.68;2727
+MN;;Scott County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.18;2727
+MN;;SD 13;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;99;4.46;2222
+MN;;SD 13;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;483;21.74;2222
+MN;;SD 13;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;123;5.54;2222
+MN;;SD 13;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1012;45.54;2222
+MN;;SD 13;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;500;22.50;2222
+MN;;SD 13;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.23;2222
+MN;;SD 14;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;127;10.64;1194
+MN;;SD 14;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;290;24.29;1194
+MN;;SD 14;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;58;4.86;1194
+MN;;SD 14;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;434;36.35;1194
+MN;;SD 14;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;285;23.87;1194
+MN;;SD 14;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;1194
+MN;;SD 30;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;70;6.47;1082
+MN;;SD 30;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;397;36.69;1082
+MN;;SD 30;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;34;3.14;1082
+MN;;SD 30;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;324;29.94;1082
+MN;;SD 30;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;257;23.75;1082
+MN;;SD 30;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;1082
+MN;;SD 31;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;157;6.93;2265
+MN;;SD 31;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;969;42.78;2265
+MN;;SD 31;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;34;1.50;2265
+MN;;SD 31;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;544;24.02;2265
+MN;;SD 31;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;553;24.41;2265
+MN;;SD 31;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;8;0.35;2265
+MN;;SD 33;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;148;5.26;2813
+MN;;SD 33;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;650;23.11;2813
+MN;;SD 33;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;301;10.70;2813
+MN;;SD 33;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1098;39.03;2813
+MN;;SD 33;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;613;21.79;2813
+MN;;SD 33;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.11;2813
+MN;;SD 34;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;83;3.31;2509
+MN;;SD 34;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;751;29.93;2509
+MN;;SD 34;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;106;4.22;2509
+MN;;SD 34;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1143;45.56;2509
+MN;;SD 34;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;421;16.78;2509
+MN;;SD 34;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.20;2509
+MN;;SD 35;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;135;5.89;2292
+MN;;SD 35;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;717;31.28;2292
+MN;;SD 35;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;65;2.84;2292
+MN;;SD 35;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;925;40.36;2292
+MN;;SD 35;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;448;19.55;2292
+MN;;SD 35;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.09;2292
+MN;;SD 36;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;87;4.98;1748
+MN;;SD 36;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;607;34.73;1748
+MN;;SD 36;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;54;3.09;1748
+MN;;SD 36;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;673;38.50;1748
+MN;;SD 36;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;324;18.54;1748
+MN;;SD 36;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.17;1748
+MN;;SD 37;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;96;5.61;1712
+MN;;SD 37;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;514;30.02;1712
+MN;;SD 37;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;56;3.27;1712
+MN;;SD 37;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;663;38.73;1712
+MN;;SD 37;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;379;22.14;1712
+MN;;SD 37;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;4;0.23;1712
+MN;;SD 39;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;130;6.01;2162
+MN;;SD 39;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;682;31.54;2162
+MN;;SD 39;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;130;6.01;2162
+MN;;SD 39;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;732;33.86;2162
+MN;;SD 39;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;486;22.48;2162
+MN;;SD 39;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.09;2162
+MN;;SD 40;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;66;8.23;802
+MN;;SD 40;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;333;41.52;802
+MN;;SD 40;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;39;4.86;802
+MN;;SD 40;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;205;25.56;802
+MN;;SD 40;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;159;19.83;802
+MN;;SD 40;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;802
+MN;;SD 41;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;84;5.57;1509
+MN;;SD 41;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;402;26.64;1509
+MN;;SD 41;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;104;6.89;1509
+MN;;SD 41;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;630;41.75;1509
+MN;;SD 41;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;289;19.15;1509
+MN;;SD 41;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;1509
+MN;;SD 43;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;112;7.37;1519
+MN;;SD 43;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;444;29.23;1519
+MN;;SD 43;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;91;5.99;1519
+MN;;SD 43;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;577;37.99;1519
+MN;;SD 43;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;292;19.22;1519
+MN;;SD 43;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.20;1519
+MN;;SD 44;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;101;4.28;2359
+MN;;SD 44;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;480;20.35;2359
+MN;;SD 44;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;208;8.82;2359
+MN;;SD 44;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1174;49.77;2359
+MN;;SD 44;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;391;16.57;2359
+MN;;SD 44;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.21;2359
+MN;;SD 45;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;131;7.65;1712
+MN;;SD 45;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;538;31.43;1712
+MN;;SD 45;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;77;4.50;1712
+MN;;SD 45;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;689;40.25;1712
+MN;;SD 45;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;272;15.89;1712
+MN;;SD 45;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.29;1712
+MN;;SD 46;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;68;3.68;1848
+MN;;SD 46;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;452;24.46;1848
+MN;;SD 46;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;162;8.77;1848
+MN;;SD 46;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;889;48.11;1848
+MN;;SD 46;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;276;14.94;1848
+MN;;SD 46;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.05;1848
+MN;;SD 48;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;93;4.28;2174
+MN;;SD 48;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;454;20.88;2174
+MN;;SD 48;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;164;7.54;2174
+MN;;SD 48;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1087;50.00;2174
+MN;;SD 48;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;369;16.97;2174
+MN;;SD 48;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;7;0.32;2174
+MN;;SD 49;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;85;3.26;2606
+MN;;SD 49;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;428;16.42;2606
+MN;;SD 49;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;349;13.39;2606
+MN;;SD 49;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;1277;49.00;2606
+MN;;SD 49;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;463;17.77;2606
+MN;;SD 49;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;4;0.15;2606
+MN;;SD 50;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;112;6.45;1737
+MN;;SD 50;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;509;29.30;1737
+MN;;SD 50;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;123;7.08;1737
+MN;;SD 50;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;648;37.31;1737
+MN;;SD 50;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;339;19.52;1737
+MN;;SD 50;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;6;0.35;1737
+MN;;SD 51;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;98;4.85;2019
+MN;;SD 51;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;491;24.32;2019
+MN;;SD 51;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;122;6.04;2019
+MN;;SD 51;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;947;46.90;2019
+MN;;SD 51;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;356;17.63;2019
+MN;;SD 51;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.25;2019
+MN;;SD 53;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;92;4.84;1902
+MN;;SD 53;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;504;26.50;1902
+MN;;SD 53;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;131;6.89;1902
+MN;;SD 53;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;811;42.64;1902
+MN;;SD 53;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;361;18.98;1902
+MN;;SD 53;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.16;1902
+MN;;SD 54;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;82;5.27;1556
+MN;;SD 54;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;506;32.52;1556
+MN;;SD 54;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;55;3.53;1556
+MN;;SD 54;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;537;34.51;1556
+MN;;SD 54;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;372;23.91;1556
+MN;;SD 54;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;4;0.26;1556
+MN;;SD 56;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;78;4.23;1845
+MN;;SD 56;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;482;26.12;1845
+MN;;SD 56;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;75;4.07;1845
+MN;;SD 56;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;829;44.93;1845
+MN;;SD 56;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;378;20.49;1845
+MN;;SD 56;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.16;1845
+MN;;SD 57;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;129;5.88;2195
+MN;;SD 57;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;638;29.07;2195
+MN;;SD 57;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;153;6.97;2195
+MN;;SD 57;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;866;39.45;2195
+MN;;SD 57;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;404;18.41;2195
+MN;;SD 57;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;5;0.23;2195
+MN;;SD 58;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;133;6.12;2172
+MN;;SD 58;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;721;33.20;2172
+MN;;SD 58;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;86;3.96;2172
+MN;;SD 58;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;817;37.62;2172
+MN;;SD 58;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;409;18.83;2172
+MN;;SD 58;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;6;0.28;2172
+MN;;SD 59;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;42;5.84;719
+MN;;SD 59;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;158;21.98;719
+MN;;SD 59;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;63;8.76;719
+MN;;SD 59;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;321;44.65;719
+MN;;SD 59;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;135;18.78;719
+MN;;SD 59;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;719
+MN;;SD 60;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;32;2.34;1368
+MN;;SD 60;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;201;14.69;1368
+MN;;SD 60;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;107;7.82;1368
+MN;;SD 60;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;875;63.96;1368
+MN;;SD 60;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;152;11.11;1368
+MN;;SD 60;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.07;1368
+MN;;SD 61;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;24;2.09;1149
+MN;;SD 61;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;161;14.01;1149
+MN;;SD 61;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;205;17.84;1149
+MN;;SD 61;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;602;52.39;1149
+MN;;SD 61;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;151;13.14;1149
+MN;;SD 61;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;6;0.52;1149
+MN;;SD 62;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;22;3.96;555
+MN;;SD 62;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;107;19.28;555
+MN;;SD 62;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;46;8.29;555
+MN;;SD 62;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;309;55.68;555
+MN;;SD 62;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;68;12.25;555
+MN;;SD 62;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.54;555
+MN;;SD 63;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;73;6.43;1136
+MN;;SD 63;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;294;25.88;1136
+MN;;SD 63;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;92;8.10;1136
+MN;;SD 63;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;511;44.98;1136
+MN;;SD 63;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;164;14.44;1136
+MN;;SD 63;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;2;0.18;1136
+MN;;SD 64;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;30;1.98;1513
+MN;;SD 64;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;198;13.09;1513
+MN;;SD 64;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;156;10.31;1513
+MN;;SD 64;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;963;63.65;1513
+MN;;SD 64;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;163;10.77;1513
+MN;;SD 64;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.20;1513
+MN;;SD 65;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;37;7.40;500
+MN;;SD 65;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;101;20.20;500
+MN;;SD 65;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;48;9.60;500
+MN;;SD 65;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;213;42.60;500
+MN;;SD 65;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;98;19.60;500
+MN;;SD 65;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;3;0.60;500
+MN;;SD 67;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;37;7.84;472
+MN;;SD 67;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;146;30.93;472
+MN;;SD 67;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;16;3.39;472
+MN;;SD 67;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;143;30.30;472
+MN;;SD 67;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;129;27.33;472
+MN;;SD 67;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.21;472
+MN;;Sibley County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;20;7.35;272
+MN;;Sibley County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;131;48.16;272
+MN;;Sibley County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;8;2.94;272
+MN;;Sibley County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;54;19.85;272
+MN;;Sibley County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;58;21.32;272
+MN;;Sibley County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.37;272
+MN;;St. Louis County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;119;9.38;1269
+MN;;St. Louis County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;400;31.52;1269
+MN;;St. Louis County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;47;3.70;1269
+MN;;St. Louis County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;290;22.85;1269
+MN;;St. Louis County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;412;32.47;1269
+MN;;St. Louis County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.08;1269
+MN;;Steele County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;69;9.75;708
+MN;;Steele County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;211;29.80;708
+MN;;Steele County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;35;4.94;708
+MN;;Steele County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;211;29.80;708
+MN;;Steele County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;181;25.57;708
+MN;;Steele County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;1;0.14;708
+MN;;Stevens County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;28;10.11;277
+MN;;Stevens County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;71;25.63;277
+MN;;Stevens County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;21;7.58;277
+MN;;Stevens County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;91;32.85;277
+MN;;Stevens County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;66;23.83;277
+MN;;Stevens County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;277
+MN;;Swift County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;28;17.50;160
+MN;;Swift County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;39;24.38;160
+MN;;Swift County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;7;4.38;160
+MN;;Swift County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;43;26.88;160
+MN;;Swift County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;43;26.88;160
+MN;;Swift County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;160
+MN;;Todd County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;57;10.14;562
+MN;;Todd County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;179;31.85;562
+MN;;Todd County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;17;3.02;562
+MN;;Todd County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;151;26.87;562
+MN;;Todd County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;158;28.11;562
+MN;;Todd County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;562
+MN;;Traverse County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;24;28.92;83
+MN;;Traverse County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;28;33.73;83
+MN;;Traverse County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;2;2.41;83
+MN;;Traverse County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;6;7.23;83
+MN;;Traverse County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;23;27.71;83
+MN;;Traverse County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;83
+MN;;Wabasha County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;63;13.76;458
+MN;;Wabasha County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;140;30.57;458
+MN;;Wabasha County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;14;3.06;458
+MN;;Wabasha County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;108;23.58;458
+MN;;Wabasha County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;133;29.04;458
+MN;;Wabasha County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;458
+MN;;Wadena County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;59;14.05;420
+MN;;Wadena County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;110;26.19;420
+MN;;Wadena County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;24;5.71;420
+MN;;Wadena County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;88;20.95;420
+MN;;Wadena County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;139;33.10;420
+MN;;Wadena County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;420
+MN;;Waseca County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;28;7.16;391
+MN;;Waseca County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;148;37.85;391
+MN;;Waseca County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;15;3.84;391
+MN;;Waseca County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;106;27.11;391
+MN;;Waseca County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;94;24.04;391
+MN;;Waseca County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;391
+MN;;Watonwan County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;23;14.02;164
+MN;;Watonwan County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;41;25.00;164
+MN;;Watonwan County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;14;8.54;164
+MN;;Watonwan County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;34;20.73;164
+MN;;Watonwan County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;52;31.71;164
+MN;;Watonwan County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;164
+MN;;Wilkin County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;12;9.92;121
+MN;;Wilkin County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;52;42.98;121
+MN;;Wilkin County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;14;11.57;121
+MN;;Wilkin County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;19;15.70;121
+MN;;Wilkin County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;24;19.83;121
+MN;;Wilkin County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;121
+MN;;Winona County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;55;6.35;866
+MN;;Winona County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;211;24.36;866
+MN;;Winona County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;48;5.54;866
+MN;;Winona County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;341;39.38;866
+MN;;Winona County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;211;24.36;866
+MN;;Winona County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;866
+MN;;Wright County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;231;7.08;3264
+MN;;Wright County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;1288;39.46;3264
+MN;;Wright County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;90;2.76;3264
+MN;;Wright County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;949;29.07;3264
+MN;;Wright County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;706;21.63;3264
+MN;;Wright County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;3264
+MN;;Yellow Medicine County;0101;U.S. President;;0301;DR. BEN CARSON;;;R;1;1;9;5.73;157
+MN;;Yellow Medicine County;0101;U.S. President;;0302;TED CRUZ;;;R;1;1;64;40.76;157
+MN;;Yellow Medicine County;0101;U.S. President;;0303;JOHN R. KASICH;;;R;1;1;9;5.73;157
+MN;;Yellow Medicine County;0101;U.S. President;;0304;MARCO RUBIO;;;R;1;1;41;26.11;157
+MN;;Yellow Medicine County;0101;U.S. President;;0305;DONALD J. TRUMP;;;R;1;1;34;21.66;157
+MN;;Yellow Medicine County;0101;U.S. President;;0306;WRITE-IN;;;R;1;1;0;0.00;157
+MN;;Aitkin;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;166;47.56;349
+MN;;Aitkin;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;349
+MN;;Aitkin;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;349
+MN;;Aitkin;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;180;51.58;349
+MN;;Aitkin;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;0.86;349
+MN;;Aitkin;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;349
+MN;;Becker;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;181;46.77;387
+MN;;Becker;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;387
+MN;;Becker;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;387
+MN;;Becker;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;203;52.45;387
+MN;;Becker;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;0.78;387
+MN;;Becker;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;387
+MN;;Beltrami;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;403;27.83;1448
+MN;;Beltrami;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1448
+MN;;Beltrami;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;3;0.21;1448
+MN;;Beltrami;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1035;71.48;1448
+MN;;Beltrami;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;6;0.41;1448
+MN;;Beltrami;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.07;1448
+MN;;Benton-Sherburne-Wright-15;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;203;37.18;546
+MN;;Benton-Sherburne-Wright-15;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.18;546
+MN;;Benton-Sherburne-Wright-15;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;3;0.55;546
+MN;;Benton-Sherburne-Wright-15;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;336;61.54;546
+MN;;Benton-Sherburne-Wright-15;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;0.55;546
+MN;;Benton-Sherburne-Wright-15;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;546
+MN;;Big Stone;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;55;50.00;110
+MN;;Big Stone;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;110
+MN;;Big Stone;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;110
+MN;;Big Stone;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;52;47.27;110
+MN;;Big Stone;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;1.82;110
+MN;;Big Stone;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.91;110
+MN;;Blue Earth;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;592;24.07;2459
+MN;;Blue Earth;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2459
+MN;;Blue Earth;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;3;0.12;2459
+MN;;Blue Earth;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1855;75.44;2459
+MN;;Blue Earth;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.37;2459
+MN;;Blue Earth;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;2459
+MN;;Brown;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;148;36.01;411
+MN;;Brown;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;411
+MN;;Brown;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;411
+MN;;Brown;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;257;62.53;411
+MN;;Brown;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;0.97;411
+MN;;Brown;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.49;411
+MN;;Cass;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;217;40.64;534
+MN;;Cass;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;534
+MN;;Cass;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;534
+MN;;Cass;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;311;58.24;534
+MN;;Cass;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;0.75;534
+MN;;Cass;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.37;534
+MN;;Chippewa;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;70;44.87;156
+MN;;Chippewa;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;156
+MN;;Chippewa;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;156
+MN;;Chippewa;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;81;51.92;156
+MN;;Chippewa;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;5;3.21;156
+MN;;Chippewa;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;156
+MN;;Clay;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;402;22.64;1776
+MN;;Clay;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1776
+MN;;Clay;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;1776
+MN;;Clay;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1362;76.69;1776
+MN;;Clay;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;11;0.62;1776
+MN;;Clay;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.06;1776
+MN;;Clearwater;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;52;54.17;96
+MN;;Clearwater;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;96
+MN;;Clearwater;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;96
+MN;;Clearwater;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;43;44.79;96
+MN;;Clearwater;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;1.04;96
+MN;;Clearwater;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;96
+MN;;Cook;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;183;39.52;463
+MN;;Cook;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;463
+MN;;Cook;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;463
+MN;;Cook;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;279;60.26;463
+MN;;Cook;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.22;463
+MN;;Cook;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;463
+MN;;Cottonwood;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;51;41.13;124
+MN;;Cottonwood;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;124
+MN;;Cottonwood;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;124
+MN;;Cottonwood;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;72;58.06;124
+MN;;Cottonwood;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.81;124
+MN;;Cottonwood;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;124
+MN;;Crow Wing;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;334;32.18;1038
+MN;;Crow Wing;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1038
+MN;;Crow Wing;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.10;1038
+MN;;Crow Wing;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;697;67.15;1038
+MN;;Crow Wing;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;0.39;1038
+MN;;Crow Wing;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.19;1038
+MN;;Dodge;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;123;38.92;316
+MN;;Dodge;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;316
+MN;;Dodge;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;316
+MN;;Dodge;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;191;60.44;316
+MN;;Dodge;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;0.63;316
+MN;;Dodge;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;316
+MN;;Douglas;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;309;45.85;674
+MN;;Douglas;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.15;674
+MN;;Douglas;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.15;674
+MN;;Douglas;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;361;53.56;674
+MN;;Douglas;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;0.30;674
+MN;;Douglas;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;674
+MN;;Faribault;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;55;43.65;126
+MN;;Faribault;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;126
+MN;;Faribault;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;126
+MN;;Faribault;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;71;56.35;126
+MN;;Faribault;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;126
+MN;;Faribault;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;126
+MN;;Fillmore;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;186;46.04;404
+MN;;Fillmore;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;404
+MN;;Fillmore;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;404
+MN;;Fillmore;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;217;53.71;404
+MN;;Fillmore;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.25;404
+MN;;Fillmore;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;404
+MN;;Freeborn;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;182;38.24;476
+MN;;Freeborn;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;476
+MN;;Freeborn;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;476
+MN;;Freeborn;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;291;61.13;476
+MN;;Freeborn;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;0.63;476
+MN;;Freeborn;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;476
+MN;;Goodhue-21;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;467;43.00;1086
+MN;;Goodhue-21;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1086
+MN;;Goodhue-21;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.18;1086
+MN;;Goodhue-21;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;608;55.99;1086
+MN;;Goodhue-21;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.83;1086
+MN;;Goodhue-21;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;1086
+MN;;Grant;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;61;56.48;108
+MN;;Grant;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.93;108
+MN;;Grant;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;108
+MN;;Grant;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;45;41.67;108
+MN;;Grant;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.93;108
+MN;;Grant;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;108
+MN;;HD 11A;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;459;38.80;1183
+MN;;HD 11A;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1183
+MN;;HD 11A;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;1183
+MN;;HD 11A;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;715;60.44;1183
+MN;;HD 11A;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;8;0.68;1183
+MN;;HD 11A;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.08;1183
+MN;;Houston;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;121;29.30;413
+MN;;Houston;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;413
+MN;;Houston;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.24;413
+MN;;Houston;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;285;69.01;413
+MN;;Houston;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;6;1.45;413
+MN;;Houston;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;413
+MN;;Hubbard;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;237;44.13;537
+MN;;Hubbard;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;537
+MN;;Hubbard;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.19;537
+MN;;Hubbard;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;295;54.93;537
+MN;;Hubbard;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;0.74;537
+MN;;Hubbard;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;537
+MN;;Itasca;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;437;35.13;1244
+MN;;Itasca;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.08;1244
+MN;;Itasca;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;4;0.32;1244
+MN;;Itasca;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;771;61.98;1244
+MN;;Itasca;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;24;1.93;1244
+MN;;Itasca;0101;U.S. President;;0406;OTHER;;;DFL;1;1;7;0.56;1244
+MN;;Jackson;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;33;31.13;106
+MN;;Jackson;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;106
+MN;;Jackson;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;106
+MN;;Jackson;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;70;66.04;106
+MN;;Jackson;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;2.83;106
+MN;;Jackson;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;106
+MN;;Kanabec;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;83;29.54;281
+MN;;Kanabec;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;281
+MN;;Kanabec;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;281
+MN;;Kanabec;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;196;69.75;281
+MN;;Kanabec;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;0.71;281
+MN;;Kanabec;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;281
+MN;;Kandiyohi;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;401;52.49;764
+MN;;Kandiyohi;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;764
+MN;;Kandiyohi;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.13;764
+MN;;Kandiyohi;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;355;46.47;764
+MN;;Kandiyohi;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;7;0.92;764
+MN;;Kandiyohi;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;764
+MN;;Kittson;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;35;60.34;58
+MN;;Kittson;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;58
+MN;;Kittson;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;1.72;58
+MN;;Kittson;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;21;36.21;58
+MN;;Kittson;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;1.72;58
+MN;;Kittson;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;58
+MN;;Koochiching;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;103;43.64;236
+MN;;Koochiching;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;236
+MN;;Koochiching;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;236
+MN;;Koochiching;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;130;55.08;236
+MN;;Koochiching;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;1.27;236
+MN;;Koochiching;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;236
+MN;;Lac Qui Parle;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;45;50.00;90
+MN;;Lac Qui Parle;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;90
+MN;;Lac Qui Parle;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;90
+MN;;Lac Qui Parle;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;44;48.89;90
+MN;;Lac Qui Parle;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;90
+MN;;Lac Qui Parle;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;1.11;90
+MN;;Lake;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;159;31.93;498
+MN;;Lake;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;498
+MN;;Lake;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;498
+MN;;Lake;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;332;66.67;498
+MN;;Lake;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;7;1.41;498
+MN;;Lake;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;498
+MN;;Lake of the Woods;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;23;38.33;60
+MN;;Lake of the Woods;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;60
+MN;;Lake of the Woods;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;60
+MN;;Lake of the Woods;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;37;61.67;60
+MN;;Lake of the Woods;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;60
+MN;;Lake of the Woods;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;60
+MN;;Le Sueur;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;200;48.19;415
+MN;;Le Sueur;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;415
+MN;;Le Sueur;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;415
+MN;;Le Sueur;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;214;51.57;415
+MN;;Le Sueur;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.24;415
+MN;;Le Sueur;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;415
+MN;;Lincoln;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;39;59.09;66
+MN;;Lincoln;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;66
+MN;;Lincoln;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;66
+MN;;Lincoln;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;27;40.91;66
+MN;;Lincoln;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;66
+MN;;Lincoln;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;66
+MN;;Lyon;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;122;25.21;484
+MN;;Lyon;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.21;484
+MN;;Lyon;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;484
+MN;;Lyon;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;360;74.38;484
+MN;;Lyon;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;484
+MN;;Lyon;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.21;484
+MN;;Mahnomen;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;24;30.00;80
+MN;;Mahnomen;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;80
+MN;;Mahnomen;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;1.25;80
+MN;;Mahnomen;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;55;68.75;80
+MN;;Mahnomen;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;80
+MN;;Mahnomen;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;80
+MN;;Marshall;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;17;30.91;55
+MN;;Marshall;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;55
+MN;;Marshall;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;55
+MN;;Marshall;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;37;67.27;55
+MN;;Marshall;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;1.82;55
+MN;;Marshall;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;55
+MN;;Martin;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;75;38.86;193
+MN;;Martin;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;193
+MN;;Martin;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;193
+MN;;Martin;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;117;60.62;193
+MN;;Martin;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.52;193
+MN;;Martin;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;193
+MN;;Mcleod;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;157;34.58;454
+MN;;Mcleod;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;454
+MN;;Mcleod;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;454
+MN;;Mcleod;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;292;64.32;454
+MN;;Mcleod;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;5;1.10;454
+MN;;Mcleod;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;454
+MN;;Meeker/Cokato;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;135;44.70;302
+MN;;Meeker/Cokato;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;302
+MN;;Meeker/Cokato;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;302
+MN;;Meeker/Cokato;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;165;54.64;302
+MN;;Meeker/Cokato;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.33;302
+MN;;Meeker/Cokato;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.33;302
+MN;;Mille Lacs;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;129;37.61;343
+MN;;Mille Lacs;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;343
+MN;;Mille Lacs;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;343
+MN;;Mille Lacs;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;212;61.81;343
+MN;;Mille Lacs;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;0.58;343
+MN;;Mille Lacs;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;343
+MN;;Morrison;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;118;36.53;323
+MN;;Morrison;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;323
+MN;;Morrison;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;323
+MN;;Morrison;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;202;62.54;323
+MN;;Morrison;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;0.62;323
+MN;;Morrison;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.31;323
+MN;;Mower;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;211;34.59;610
+MN;;Mower;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;610
+MN;;Mower;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;610
+MN;;Mower;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;394;64.59;610
+MN;;Mower;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;0.66;610
+MN;;Mower;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.16;610
+MN;;Murray;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;46;43.40;106
+MN;;Murray;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;106
+MN;;Murray;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.94;106
+MN;;Murray;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;57;53.77;106
+MN;;Murray;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;1.89;106
+MN;;Murray;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;106
+MN;;Nicollet;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;434;29.38;1477
+MN;;Nicollet;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1477
+MN;;Nicollet;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.07;1477
+MN;;Nicollet;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1037;70.21;1477
+MN;;Nicollet;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;5;0.34;1477
+MN;;Nicollet;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;1477
+MN;;Nobles;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;84;50.60;166
+MN;;Nobles;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;166
+MN;;Nobles;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;166
+MN;;Nobles;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;77;46.39;166
+MN;;Nobles;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;1.81;166
+MN;;Nobles;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;1.20;166
+MN;;Norman;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;42;44.68;94
+MN;;Norman;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;94
+MN;;Norman;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;94
+MN;;Norman;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;52;55.32;94
+MN;;Norman;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;94
+MN;;Norman;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;94
+MN;;Olmsted-25;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;754;34.04;2215
+MN;;Olmsted-25;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2215
+MN;;Olmsted-25;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.09;2215
+MN;;Olmsted-25;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1449;65.42;2215
+MN;;Olmsted-25;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.41;2215
+MN;;Olmsted-25;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.05;2215
+MN;;Otter Tail;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;398;43.83;908
+MN;;Otter Tail;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;908
+MN;;Otter Tail;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;908
+MN;;Otter Tail;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;503;55.40;908
+MN;;Otter Tail;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;5;0.55;908
+MN;;Otter Tail;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.22;908
+MN;;Pennington;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;70;33.98;206
+MN;;Pennington;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;206
+MN;;Pennington;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;206
+MN;;Pennington;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;136;66.02;206
+MN;;Pennington;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;206
+MN;;Pennington;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;206
+MN;;Pine-11B;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;162;38.57;420
+MN;;Pine-11B;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;420
+MN;;Pine-11B;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;420
+MN;;Pine-11B;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;258;61.43;420
+MN;;Pine-11B;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;420
+MN;;Pine-11B;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;420
+MN;;Pipestone;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;49;50.00;98
+MN;;Pipestone;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;98
+MN;;Pipestone;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;98
+MN;;Pipestone;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;48;48.98;98
+MN;;Pipestone;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;1.02;98
+MN;;Pipestone;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;98
+MN;;Polk;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;207;46.73;443
+MN;;Polk;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;443
+MN;;Polk;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;443
+MN;;Polk;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;230;51.92;443
+MN;;Polk;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;6;1.35;443
+MN;;Polk;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;443
+MN;;Pope;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;90;41.86;215
+MN;;Pope;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;215
+MN;;Pope;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.93;215
+MN;;Pope;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;120;55.81;215
+MN;;Pope;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;1.40;215
+MN;;Pope;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;215
+MN;;Red Lake;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;13;38.24;34
+MN;;Red Lake;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;34
+MN;;Red Lake;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;34
+MN;;Red Lake;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;21;61.76;34
+MN;;Red Lake;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;34
+MN;;Red Lake;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;34
+MN;;Redwood;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;43;38.05;113
+MN;;Redwood;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;113
+MN;;Redwood;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;113
+MN;;Redwood;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;70;61.95;113
+MN;;Redwood;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;113
+MN;;Redwood;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;113
+MN;;Renville;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;76;48.41;157
+MN;;Renville;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;157
+MN;;Renville;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;157
+MN;;Renville;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;78;49.68;157
+MN;;Renville;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;1.91;157
+MN;;Renville;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;157
+MN;;Rice;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1156;33.41;3460
+MN;;Rice;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;3460
+MN;;Rice;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;3;0.09;3460
+MN;;Rice;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;2283;65.98;3460
+MN;;Rice;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;15;0.43;3460
+MN;;Rice;0101;U.S. President;;0406;OTHER;;;DFL;1;1;3;0.09;3460
+MN;;Rock;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;51;50.00;102
+MN;;Rock;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;102
+MN;;Rock;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;102
+MN;;Rock;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;51;50.00;102
+MN;;Rock;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;102
+MN;;Rock;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;102
+MN;;Roseau;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;42;42.42;99
+MN;;Roseau;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;99
+MN;;Roseau;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;99
+MN;;Roseau;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;57;57.58;99
+MN;;Roseau;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;99
+MN;;Roseau;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;99
+MN;;Scott 20;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;107;34.74;308
+MN;;Scott 20;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;308
+MN;;Scott 20;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;308
+MN;;Scott 20;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;197;63.96;308
+MN;;Scott 20;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;1.30;308
+MN;;Scott 20;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;308
+MN;;SD 07;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1367;25.15;5435
+MN;;SD 07;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.02;5435
+MN;;SD 07;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;4;0.07;5435
+MN;;SD 07;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;4046;74.44;5435
+MN;;SD 07;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;15;0.28;5435
+MN;;SD 07;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.04;5435
+MN;;SD 13;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;723;35.85;2017
+MN;;SD 13;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2017
+MN;;SD 13;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.05;2017
+MN;;SD 13;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1273;63.11;2017
+MN;;SD 13;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;17;0.84;2017
+MN;;SD 13;0101;U.S. President;;0406;OTHER;;;DFL;1;1;3;0.15;2017
+MN;;SD 14;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;752;27.40;2745
+MN;;SD 14;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.04;2745
+MN;;SD 14;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;2745
+MN;;SD 14;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1969;71.73;2745
+MN;;SD 14;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;14;0.51;2745
+MN;;SD 14;0101;U.S. President;;0406;OTHER;;;DFL;1;1;9;0.33;2745
+MN;;SD 26;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1138;39.86;2855
+MN;;SD 26;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2855
+MN;;SD 26;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.04;2855
+MN;;SD 26;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1712;59.97;2855
+MN;;SD 26;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;0.14;2855
+MN;;SD 26;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;2855
+MN;;SD 29;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;552;42.01;1314
+MN;;SD 29;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1314
+MN;;SD 29;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.08;1314
+MN;;SD 29;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;733;55.78;1314
+MN;;SD 29;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;27;2.05;1314
+MN;;SD 29;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.08;1314
+MN;;SD 30;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;526;37.60;1399
+MN;;SD 30;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1399
+MN;;SD 30;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;1399
+MN;;SD 30;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;863;61.69;1399
+MN;;SD 30;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.64;1399
+MN;;SD 30;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.07;1399
+MN;;SD 31;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;455;37.89;1201
+MN;;SD 31;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1201
+MN;;SD 31;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.17;1201
+MN;;SD 31;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;731;60.87;1201
+MN;;SD 31;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;11;0.92;1201
+MN;;SD 31;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.17;1201
+MN;;SD 32;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;627;39.58;1584
+MN;;SD 32;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1584
+MN;;SD 32;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.06;1584
+MN;;SD 32;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;947;59.79;1584
+MN;;SD 32;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.57;1584
+MN;;SD 32;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;1584
+MN;;SD 33;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1235;48.17;2564
+MN;;SD 33;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.04;2564
+MN;;SD 33;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;2564
+MN;;SD 33;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1319;51.44;2564
+MN;;SD 33;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.35;2564
+MN;;SD 33;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;2564
+MN;;SD 34;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;960;46.11;2082
+MN;;SD 34;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2082
+MN;;SD 34;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.10;2082
+MN;;SD 34;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1104;53.03;2082
+MN;;SD 34;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.43;2082
+MN;;SD 34;0101;U.S. President;;0406;OTHER;;;DFL;1;1;7;0.34;2082
+MN;;SD 35;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;664;36.99;1795
+MN;;SD 35;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1795
+MN;;SD 35;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.06;1795
+MN;;SD 35;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1117;62.23;1795
+MN;;SD 35;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;11;0.61;1795
+MN;;SD 35;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.11;1795
+MN;;SD 36;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;864;42.54;2031
+MN;;SD 36;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2031
+MN;;SD 36;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;2031
+MN;;SD 36;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1159;57.07;2031
+MN;;SD 36;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;7;0.34;2031
+MN;;SD 36;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.05;2031
+MN;;SD 37;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;765;41.78;1831
+MN;;SD 37;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1831
+MN;;SD 37;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.05;1831
+MN;;SD 37;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1052;57.45;1831
+MN;;SD 37;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;12;0.66;1831
+MN;;SD 37;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.05;1831
+MN;;SD 38;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1066;47.31;2253
+MN;;SD 38;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2253
+MN;;SD 38;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;2253
+MN;;SD 38;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1187;52.69;2253
+MN;;SD 38;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;2253
+MN;;SD 38;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;2253
+MN;;SD 39;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1288;44.80;2875
+MN;;SD 39;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.03;2875
+MN;;SD 39;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;3;0.10;2875
+MN;;SD 39;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1566;54.47;2875
+MN;;SD 39;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;12;0.42;2875
+MN;;SD 39;0101;U.S. President;;0406;OTHER;;;DFL;1;1;5;0.17;2875
+MN;;SD 40;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;848;42.08;2015
+MN;;SD 40;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2015
+MN;;SD 40;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;2015
+MN;;SD 40;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1158;57.47;2015
+MN;;SD 40;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;6;0.30;2015
+MN;;SD 40;0101;U.S. President;;0406;OTHER;;;DFL;1;1;3;0.15;2015
+MN;;SD 41;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1488;39.42;3775
+MN;;SD 41;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;3775
+MN;;SD 41;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;6;0.16;3775
+MN;;SD 41;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;2260;59.87;3775
+MN;;SD 41;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;14;0.37;3775
+MN;;SD 41;0101;U.S. President;;0406;OTHER;;;DFL;1;1;7;0.19;3775
+MN;;SD 42;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1603;48.50;3305
+MN;;SD 42;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;3305
+MN;;SD 42;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.03;3305
+MN;;SD 42;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1677;50.74;3305
+MN;;SD 42;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;24;0.73;3305
+MN;;SD 42;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;3305
+MN;;SD 43;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1059;40.73;2600
+MN;;SD 43;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2600
+MN;;SD 43;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;3;0.12;2600
+MN;;SD 43;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1514;58.23;2600
+MN;;SD 43;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;22;0.85;2600
+MN;;SD 43;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.08;2600
+MN;;SD 44;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;2037;54.12;3764
+MN;;SD 44;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;3764
+MN;;SD 44;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.03;3764
+MN;;SD 44;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1706;45.32;3764
+MN;;SD 44;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;19;0.50;3764
+MN;;SD 44;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.03;3764
+MN;;SD 45;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1449;40.54;3574
+MN;;SD 45;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;3574
+MN;;SD 45;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.06;3574
+MN;;SD 45;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;2102;58.81;3574
+MN;;SD 45;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;17;0.48;3574
+MN;;SD 45;0101;U.S. President;;0406;OTHER;;;DFL;1;1;4;0.11;3574
+MN;;SD 46;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;2386;43.51;5484
+MN;;SD 46;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.02;5484
+MN;;SD 46;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;4;0.07;5484
+MN;;SD 46;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;3063;55.85;5484
+MN;;SD 46;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;28;0.51;5484
+MN;;SD 46;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.04;5484
+MN;;SD 47;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;821;43.12;1904
+MN;;SD 47;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;10;0.53;1904
+MN;;SD 47;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;1904
+MN;;SD 47;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1057;55.51;1904
+MN;;SD 47;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;8;0.42;1904
+MN;;SD 47;0101;U.S. President;;0406;OTHER;;;DFL;1;1;8;0.42;1904
+MN;;SD 48;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1421;47.91;2966
+MN;;SD 48;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2966
+MN;;SD 48;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.07;2966
+MN;;SD 48;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1523;51.35;2966
+MN;;SD 48;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;13;0.44;2966
+MN;;SD 48;0101;U.S. President;;0406;OTHER;;;DFL;1;1;7;0.24;2966
+MN;;SD 49;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;2525;56.79;4446
+MN;;SD 49;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.02;4446
+MN;;SD 49;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.02;4446
+MN;;SD 49;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1888;42.47;4446
+MN;;SD 49;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;26;0.58;4446
+MN;;SD 49;0101;U.S. President;;0406;OTHER;;;DFL;1;1;5;0.11;4446
+MN;;SD 50;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1418;38.87;3648
+MN;;SD 50;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;3648
+MN;;SD 50;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;5;0.14;3648
+MN;;SD 50;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;2193;60.12;3648
+MN;;SD 50;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;22;0.60;3648
+MN;;SD 50;0101;U.S. President;;0406;OTHER;;;DFL;1;1;10;0.27;3648
+MN;;SD 51;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1410;42.51;3317
+MN;;SD 51;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.03;3317
+MN;;SD 51;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.06;3317
+MN;;SD 51;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1883;56.77;3317
+MN;;SD 51;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;20;0.60;3317
+MN;;SD 51;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.03;3317
+MN;;SD 52;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1461;48.33;3023
+MN;;SD 52;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;3023
+MN;;SD 52;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;3023
+MN;;SD 52;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1562;51.67;3023
+MN;;SD 52;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;3023
+MN;;SD 52;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;3023
+MN;;SD 53;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1406;47.81;2941
+MN;;SD 53;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;2;0.07;2941
+MN;;SD 53;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;4;0.14;2941
+MN;;SD 53;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1507;51.24;2941
+MN;;SD 53;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;20;0.68;2941
+MN;;SD 53;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.07;2941
+MN;;SD 54;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1014;43.61;2325
+MN;;SD 54;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2325
+MN;;SD 54;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.09;2325
+MN;;SD 54;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1293;55.61;2325
+MN;;SD 54;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;11;0.47;2325
+MN;;SD 54;0101;U.S. President;;0406;OTHER;;;DFL;1;1;5;0.22;2325
+MN;;SD 55;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;596;37.75;1579
+MN;;SD 55;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1579
+MN;;SD 55;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.06;1579
+MN;;SD 55;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;972;61.56;1579
+MN;;SD 55;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.57;1579
+MN;;SD 55;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.06;1579
+MN;;SD 56;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;793;40.67;1950
+MN;;SD 56;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1950
+MN;;SD 56;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;1950
+MN;;SD 56;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1150;58.97;1950
+MN;;SD 56;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;0.10;1950
+MN;;SD 56;0101;U.S. President;;0406;OTHER;;;DFL;1;1;5;0.26;1950
+MN;;SD 57;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1061;44.06;2408
+MN;;SD 57;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2408
+MN;;SD 57;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.08;2408
+MN;;SD 57;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1335;55.44;2408
+MN;;SD 57;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;9;0.37;2408
+MN;;SD 57;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.04;2408
+MN;;SD 58;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;690;41.57;1660
+MN;;SD 58;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;1660
+MN;;SD 58;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;2;0.12;1660
+MN;;SD 58;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;960;57.83;1660
+MN;;SD 58;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;6;0.36;1660
+MN;;SD 58;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.12;1660
+MN;;SD 59;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;2198;40.57;5418
+MN;;SD 59;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;4;0.07;5418
+MN;;SD 59;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;5;0.09;5418
+MN;;SD 59;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;3159;58.31;5418
+MN;;SD 59;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;48;0.89;5418
+MN;;SD 59;0101;U.S. President;;0406;OTHER;;;DFL;1;1;4;0.07;5418
+MN;;SD 60;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;3010;22.58;13333
+MN;;SD 60;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;8;0.06;13333
+MN;;SD 60;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;14;0.10;13333
+MN;;SD 60;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;10228;76.71;13333
+MN;;SD 60;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;58;0.43;13333
+MN;;SD 60;0101;U.S. President;;0406;OTHER;;;DFL;1;1;15;0.11;13333
+MN;;SD 61;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;5537;44.32;12492
+MN;;SD 61;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;5;0.04;12492
+MN;;SD 61;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;13;0.10;12492
+MN;;SD 61;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;6889;55.15;12492
+MN;;SD 61;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;41;0.33;12492
+MN;;SD 61;0101;U.S. President;;0406;OTHER;;;DFL;1;1;7;0.06;12492
+MN;;SD 62;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;2259;25.14;8984
+MN;;SD 62;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;4;0.04;8984
+MN;;SD 62;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;6;0.07;8984
+MN;;SD 62;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;6672;74.27;8984
+MN;;SD 62;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;37;0.41;8984
+MN;;SD 62;0101;U.S. President;;0406;OTHER;;;DFL;1;1;6;0.07;8984
+MN;;SD 63;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;3486;35.78;9743
+MN;;SD 63;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;9743
+MN;;SD 63;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;7;0.07;9743
+MN;;SD 63;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;6211;63.75;9743
+MN;;SD 63;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;30;0.31;9743
+MN;;SD 63;0101;U.S. President;;0406;OTHER;;;DFL;1;1;9;0.09;9743
+MN;;SD 64;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;4212;42.41;9932
+MN;;SD 64;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;2;0.02;9932
+MN;;SD 64;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;5;0.05;9932
+MN;;SD 64;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;5670;57.09;9932
+MN;;SD 64;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;38;0.38;9932
+MN;;SD 64;0101;U.S. President;;0406;OTHER;;;DFL;1;1;5;0.05;9932
+MN;;SD 65;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1661;32.27;5148
+MN;;SD 65;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.02;5148
+MN;;SD 65;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;4;0.08;5148
+MN;;SD 65;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;3442;66.86;5148
+MN;;SD 65;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;31;0.60;5148
+MN;;SD 65;0101;U.S. President;;0406;OTHER;;;DFL;1;1;9;0.17;5148
+MN;;SD 66;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;1849;36.52;5063
+MN;;SD 66;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;5063
+MN;;SD 66;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;4;0.08;5063
+MN;;SD 66;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;3191;63.03;5063
+MN;;SD 66;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;16;0.32;5063
+MN;;SD 66;0101;U.S. President;;0406;OTHER;;;DFL;1;1;3;0.06;5063
+MN;;SD 67;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;961;35.63;2697
+MN;;SD 67;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;3;0.11;2697
+MN;;SD 67;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;7;0.26;2697
+MN;;SD 67;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1691;62.70;2697
+MN;;SD 67;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;22;0.82;2697
+MN;;SD 67;0101;U.S. President;;0406;OTHER;;;DFL;1;1;13;0.48;2697
+MN;;Sibley;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;42;36.52;115
+MN;;Sibley;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;115
+MN;;Sibley;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;115
+MN;;Sibley;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;71;61.74;115
+MN;;Sibley;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;1.74;115
+MN;;Sibley;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;115
+MN;;St Louis 03;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;724;34.77;2082
+MN;;St Louis 03;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.05;2082
+MN;;St Louis 03;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.05;2082
+MN;;St Louis 03;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1334;64.07;2082
+MN;;St Louis 03;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;19;0.91;2082
+MN;;St Louis 03;0101;U.S. President;;0406;OTHER;;;DFL;1;1;3;0.14;2082
+MN;;St Louis 06;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;648;34.32;1888
+MN;;St Louis 06;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;1;0.05;1888
+MN;;St Louis 06;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;1;0.05;1888
+MN;;St Louis 06;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1200;63.56;1888
+MN;;St Louis 06;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;32;1.69;1888
+MN;;St Louis 06;0101;U.S. President;;0406;OTHER;;;DFL;1;1;6;0.32;1888
+MN;;Stearns-12;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;63;39.62;159
+MN;;Stearns-12;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;159
+MN;;Stearns-12;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;159
+MN;;Stearns-12;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;94;59.12;159
+MN;;Stearns-12;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;1.26;159
+MN;;Stearns-12;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;159
+MN;;Steele;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;217;34.50;629
+MN;;Steele;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;629
+MN;;Steele;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;629
+MN;;Steele;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;409;65.02;629
+MN;;Steele;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;0.48;629
+MN;;Steele;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;629
+MN;;Stevens;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;126;16.22;777
+MN;;Stevens;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;777
+MN;;Stevens;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;777
+MN;;Stevens;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;646;83.14;777
+MN;;Stevens;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;0.39;777
+MN;;Stevens;0101;U.S. President;;0406;OTHER;;;DFL;1;1;2;0.26;777
+MN;;Swift;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;72;44.17;163
+MN;;Swift;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;163
+MN;;Swift;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;163
+MN;;Swift;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;87;53.37;163
+MN;;Swift;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;4;2.45;163
+MN;;Swift;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;163
+MN;;Todd;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;116;42.34;274
+MN;;Todd;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;274
+MN;;Todd;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;274
+MN;;Todd;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;155;56.57;274
+MN;;Todd;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;3;1.09;274
+MN;;Todd;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;274
+MN;;Traverse;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;27;61.36;44
+MN;;Traverse;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;44
+MN;;Traverse;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;44
+MN;;Traverse;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;16;36.36;44
+MN;;Traverse;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;2.27;44
+MN;;Traverse;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;44
+MN;;Wabasha;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;164;37.53;437
+MN;;Wabasha;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;437
+MN;;Wabasha;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;437
+MN;;Wabasha;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;267;61.10;437
+MN;;Wabasha;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;6;1.37;437
+MN;;Wabasha;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;437
+MN;;Wadena;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;78;45.35;172
+MN;;Wadena;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;172
+MN;;Wadena;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;172
+MN;;Wadena;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;92;53.49;172
+MN;;Wadena;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;2;1.16;172
+MN;;Wadena;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;172
+MN;;Waseca;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;112;39.16;286
+MN;;Waseca;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;286
+MN;;Waseca;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;286
+MN;;Waseca;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;172;60.14;286
+MN;;Waseca;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.35;286
+MN;;Waseca;0101;U.S. President;;0406;OTHER;;;DFL;1;1;1;0.35;286
+MN;;Watonwan;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;70;45.45;154
+MN;;Watonwan;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;154
+MN;;Watonwan;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;154
+MN;;Watonwan;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;83;53.90;154
+MN;;Watonwan;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;1;0.65;154
+MN;;Watonwan;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;154
+MN;;Wilkin;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;27;43.55;62
+MN;;Wilkin;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;62
+MN;;Wilkin;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;62
+MN;;Wilkin;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;35;56.45;62
+MN;;Wilkin;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;62
+MN;;Wilkin;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;62
+MN;;Winona;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;496;23.96;2070
+MN;;Winona;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;2070
+MN;;Winona;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;2070
+MN;;Winona;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;1562;75.46;2070
+MN;;Winona;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;12;0.58;2070
+MN;;Winona;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;2070
+MN;;Yellow Medicine;0101;U.S. President;;0401;HILLARY CLINTON;;;DFL;1;1;67;45.27;148
+MN;;Yellow Medicine;0101;U.S. President;;0402;ROCQUE "ROCKY" DE LA FUENTE;;;DFL;1;1;0;0.00;148
+MN;;Yellow Medicine;0101;U.S. President;;0403;MARTIN O'MALLEY;;;DFL;1;1;0;0.00;148
+MN;;Yellow Medicine;0101;U.S. President;;0404;BERNIE SANDERS;;;DFL;1;1;81;54.73;148
+MN;;Yellow Medicine;0101;U.S. President;;0405;UNCOMMITTED;;;DFL;1;1;0;0.00;148
+MN;;Yellow Medicine;0101;U.S. President;;0406;OTHER;;;DFL;1;1;0;0.00;148
